@@ -40,6 +40,7 @@ echo "<br>";
 echo var_dump($friends);
 echo $friends[2];
 
-
+//NULL
+$name=NULL;//means no value
 
 ?>
